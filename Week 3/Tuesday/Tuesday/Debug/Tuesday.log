@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\steve.vice\documents\github\year-2\week 3\tuesday\tuesday\source.cpp(20): warning C4305: 'argument': truncation from 'bool (__cdecl *)(void)' to 'bool'
+c:\users\steve.vice\documents\github\year-2\week 3\tuesday\tuesday\source.cpp(20): warning C4800: 'bool (__cdecl *)(void)': forcing value to bool 'true' or 'false' (performance warning)
+  Tuesday.vcxproj -> C:\Users\steve.vice\Documents\GitHub\Year-2\Week 3\Tuesday\Debug\Tuesday.exe
+  Tuesday.vcxproj -> C:\Users\steve.vice\Documents\GitHub\Year-2\Week 3\Tuesday\Debug\Tuesday.pdb (Partial PDB)
